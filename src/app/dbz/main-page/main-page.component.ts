@@ -17,6 +17,6 @@ export class MainPageComponent {
   }
 
   agregar() {
-    console.log("Algo!!!");
+    console.log(this.nuevo);
   }
 }
